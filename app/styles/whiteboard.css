@@ -1,0 +1,20 @@
+.whiteboard-header {
+    width: 100%;
+    height: 100px;
+    background-color: dodgerblue;
+    border-bottom: solid #3645DA 2px;
+}
+
+.whiteboard-title {
+    height: 100px;
+    padding: 10px;
+}
+
+.main-page {
+    width: 900px;
+    background-color: lightsteelblue; 
+    height: 100%;
+    padding: 25px;
+    margin: auto;
+}
+

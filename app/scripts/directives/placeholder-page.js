@@ -1,3 +1,3 @@
 angular.module('whiteboardapp').component('placeholderPage', {
-  templateUrl: 'scripts/placeholder-page.html'
+  templateUrl: '/scripts/views/placeholder-page.html'
 });
